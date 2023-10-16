@@ -1,0 +1,164 @@
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.csproj.AssemblyReference.cache
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.GeneratedMSBuildEditorConfig.editorconfig
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.AssemblyInfoInputs.cache
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.AssemblyInfo.cs
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.csproj.CoreCompileInputs.cache
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.MvcApplicationPartsAssemblyInfo.cs
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.MvcApplicationPartsAssemblyInfo.cache
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\appsettings.Development.json
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\appsettings.json
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\MultiTenancy.exe
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\MultiTenancy.deps.json
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\MultiTenancy.runtimeconfig.json
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\MultiTenancy.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\MultiTenancy.pdb
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\obj\Debug\net6.0\staticwebassets.build.json
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\obj\Debug\net6.0\staticwebassets.development.json
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\obj\Debug\net6.0\scopedcss\bundle\MultiTenancy.styles.css
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.csproj.CopyComplete
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\obj\Debug\net6.0\refint\MultiTenancy.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.pdb
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.genruntimeconfig.cache
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\obj\Debug\net6.0\ref\MultiTenancy.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Azure.Core.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Azure.Identity.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Humanizer.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.CodeDom.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Memory.Data.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Text.Json.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Courses\Udemy - Build an app with ASPNET Core and Angular from scratch 2020-10\CourseWork\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\appsettings.Development.json
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\appsettings.json
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\MultiTenancy.exe
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\MultiTenancy.deps.json
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\MultiTenancy.runtimeconfig.json
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\MultiTenancy.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\MultiTenancy.pdb
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Azure.Core.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Azure.Identity.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Humanizer.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.CodeDom.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Memory.Data.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Text.Json.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Projects\MultiTenancy\MultiTenancy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Projects\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.csproj.AssemblyReference.cache
+F:\Projects\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.AssemblyInfoInputs.cache
+F:\Projects\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.AssemblyInfo.cs
+F:\Projects\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.csproj.CoreCompileInputs.cache
+F:\Projects\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.MvcApplicationPartsAssemblyInfo.cs
+F:\Projects\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\MultiTenancy\MultiTenancy\obj\Debug\net6.0\staticwebassets.build.json
+F:\Projects\MultiTenancy\MultiTenancy\obj\Debug\net6.0\staticwebassets.development.json
+F:\Projects\MultiTenancy\MultiTenancy\obj\Debug\net6.0\scopedcss\bundle\MultiTenancy.styles.css
+F:\Projects\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.csproj.CopyComplete
+F:\Projects\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.dll
+F:\Projects\MultiTenancy\MultiTenancy\obj\Debug\net6.0\refint\MultiTenancy.dll
+F:\Projects\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.pdb
+F:\Projects\MultiTenancy\MultiTenancy\obj\Debug\net6.0\MultiTenancy.genruntimeconfig.cache
+F:\Projects\MultiTenancy\MultiTenancy\obj\Debug\net6.0\ref\MultiTenancy.dll
